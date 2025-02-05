@@ -1,88 +1,88 @@
-Gen AI Basics for all
+### Gen AI Basics for all
 
 GenAI
--Type of machine learning
--learn deep patterns
--multimodal
--Generate creative new variants inspired by original
+* Type of machine learning
+* learn deep patterns
+* multimodal
+* Generate creative new variants inspired by original
 
 Classical ML
--Predictions about similar data
+* Predictions about similar data
 
 Generative AI
--generate more data with similar patterns and relationshipd
+* generate more data with similar patterns and relationshipd
 
 
 
 Benefits of GenAI
--Boost in creativity
--Improved productivity
--Automation of Task
--Cost optimization
--Reduce human efforts in repetitive tasks
+* Boost in creativity
+* Improved productivity
+* Automation of Task
+* Cost optimization
+* Reduce human efforts in repetitive tasks
 
 1986 - Auto-encoder
 
 Whats new with GenAI
--Larger models
--Easily Accessible
--Chat interface
--Boardrooms are noticing
+* Larger models
+* Easily Accessible
+* Chat interface
+* Boardrooms are noticing
 
 Language models are not knowledge models
--They are premitive
--Higher Accuracy and correctness is not yet there
+* They are premitive
+* Higher Accuracy and correctness is not yet there
 
 Key Processes - terms
--Training
--Alignment or  
- Fine Tuning
--Generation
--Ensuring correctness
+* Training
+* Alignment or  
+* Fine Tuning
+* Generation
+* Ensuring correctness
 
 
 Risks
--Foundation models are not well understood
--Trust and correctness
--Biased
--Energy consumption
--Intellectual property may be misused
--Possible data leakage
--Privacy risks
--statictical answers are not Ethics & Cultural
+* Foundation models are not well understood
+* Trust and correctness
+* Biased
+* Energy consumption
+* Intellectual property may be misused
+* Possible data leakage
+* Privacy risks
+* statictical answers are not Ethics & Cultural
 
 GenAI - Assessment
-- Start
+*  - Start
 	->Does it matter if its incorrect?
--No -> Use it  #END
--Yes
+*  -No -> Use it  #END
+* -Yes
 	->Do you have expertise to correct the output??
--No -> Not safe to use #END
--Yes
+* -No -> Not safe to use #END
+* -Yes
 	->Are you taking full responsiblity?
--No -> Not safe to use
--Yes-> Use with caution #END
+* -No -> Not safe to use
+* -Yes-> Use with caution #END
 
 
 
 Myth Busting
--Not new
--There are more than one type
--Not limited to chatbots
--Not actually intelligent
--GenAI is small part of large domain of AI
--Generated contents are not always true
+* Not new
+* There are more than one type
+* Not limited to chatbots
+* Not actually intelligent
+* GenAI is small part of large domain of AI
+* Generated contents are not always true
 
 
 
 Ethical usage
--Transparent
--Controllable
--Carefully delimit the impact
--Robust and Safe
--Sustainable
--Fair
--Privacy and Data protection
+* Transparent
+* Controllable
+* Carefully delimit the impact
+* Robust and Safe
+* Sustainable
+* Fair
+* -Privacy and Data protection
 
 
 
